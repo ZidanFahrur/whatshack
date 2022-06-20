@@ -1,12 +1,12 @@
 #!/bin/bash
 clear
 echo "
-<-- HACKER CUPU -->
+<-- IndoSec -->
 ####################
-#   Whatsapp Code  # By ./TigerPo
-#     Exploiter    # xxxxxxxxxxxxx@gmail.com
+#   Whatsapp Code  # By ./GeneratorPo
+#     Exploiter    # xxxxxxxxxxxx@gmail.com
 ####################
-Copyright (c) 2018 ./TigerPo HACKER CUPU";
+Copyright (c) 2018 ./GeneratorPo IndoSec";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
